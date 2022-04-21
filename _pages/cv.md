@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Vitae"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -11,9 +11,11 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in English, Truman State University, 2018
+*     Minors in Child Studies, Cognitive Science, Education, History 
+* M.A. in English, University of Connecticut, 2020
+* M.S. in Psychology, University of Connecticut, 2022
+* Ph.D in Psychology, University of Connecticut, 2025 (expected)
 
 Work experience
 ======
